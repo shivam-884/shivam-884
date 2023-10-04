@@ -1,5 +1,5 @@
 *   Hi, I’m Shivam Singh   *
-👀 I’m interested in Android Development
-🌱 I’m currently learning DSA
-💞️ I’m looking to collaborate on any android application
-📫 How to reach me: shivam123ortan@gmail.com
+*   👀 I’m interested in Web Development   *
+*   🌱 I have learned DSA with JAVA   *
+*   💞️ I’m looking to collaborate on any web application   *
+*   📫 How to reach me: shivamsingh29112000@gmail.com   *
